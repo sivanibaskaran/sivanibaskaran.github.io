@@ -9,7 +9,7 @@ name: Sivani Baskaran
 author: Sivani Baskaran
 
 # Short bio or description (displayed in the header)
-description: PhD Candidate in Environmental Chemistry, dabbling in Science Policy
+description: Environmental Chemist, dabbling in science policy
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/Sivani_Baskaran.jpg
@@ -24,13 +24,13 @@ footer-links:
   email: sivanibaskaran1@gmail.com
   facebook:
   flickr:
-  github: https://github.com/sivanibaskaran
+  github: sivanibaskaran/
   instagram:
-  linkedin: https://www.linkedin.com/in/sivanibaskaran/
+  linkedin: sivanibaskaran/
   pinterest:
   rss: 
-  twitter: sivanibaskaran
-  orcid: https://orcid.org/0000-0001-6192-5072
+  twitter: sivanibaskaran/
+  orcid: 0000-0001-6192-5072
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -42,7 +42,7 @@ footer-links:
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
+#google_analytics: 
 
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
 #google_analytics_ga4: G-GABC1DEFG
