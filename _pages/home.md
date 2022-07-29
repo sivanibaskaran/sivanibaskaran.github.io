@@ -1,13 +1,13 @@
 ---
-layout: page
-title: 
+layout: page 
 permalink: /
 ---
-# Hi, my name is Sivani!
 
-I am an environmental chemist, currently a PhD candidate at the University of Toronto and will be defending in August 2022! 
+# Hi and welcome to my website!
 
-Here you will find information about my [research interests]{% research %}, [publications]{% publications %} and some of my passion projects, including my work in [science policy]{% policy %} and past experiences with teaching.
+My name is Sivani and I am an environmental chemist. I am currently a PhD candidate at the University of Toronto and will be defending in August 2022!
+
+Here you will find information about my [research interests]{{{ site.baseurl }}/research}, [writing and publications]{{{ site.baseurl }}/writing}, and some of my passion projects, including my work in [science policy]{{{ site.baseurl }}/policy} and past experiences with teaching.
 
 Feel free to email me if you have any questions, are looking for PDF copies of my publications, or wish to collaborate.
 
