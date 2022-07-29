@@ -30,7 +30,7 @@ permalink: /talks/
 <ol reversed>
 <li>Lessons Learned from Student-Run Science Policy Groups and Youth Advisory Bodies in Canada. (2021). <i>Canadian Science Policy Conference</i>. Virtual (Canada). [<a href="https://youtu.be/KRHFT7cpvJM">Link</a>]</li> 
 <li>Science advice experiences from next generation researcher groups. (2021). <i>International Network for Government Advice 2021: Build Back Wiser: Knowledge, Policy and Publics in Dialogue</i>. Virtual (International). [<a href="https://youtu.be/zL6aqL5MI6A">Link</a>]</li>
-<li>Addressing the impacts of COVID-19 on graduate students in Canada: Challenges and solutions. (2021).  <i>Canadian Association for Graduate Studies (CAGS) 58th Annual Conference: Learning from the Present: Transforming Graduate Education Post-Pandemic</i>. Virtual (Canada)
-<li>Impact of COVID-19 restrictions on graduate students. (2021).  <i>The Canadian Section of The Wildlife Society (CSTWS)</i>. Virtual (Canada).
-<li>How is COVID-19 impacting graduate students in Canada? (2020). <i>Evidence for Democracy</i>. Virtual (Canada). [<a href="https://youtu.be/KRHFT7cpvJM">Link</a>]</li>
+<li>Addressing the impacts of COVID-19 on graduate students in Canada: Challenges and solutions. (2021).  <i>Canadian Association for Graduate Studies (CAGS) 58th Annual Conference: Learning from the Present: Transforming Graduate Education Post-Pandemic</i>. Virtual (Canada)</li> 
+<li>Impact of COVID-19 restrictions on graduate students. (2021).  <i>The Canadian Section of The Wildlife Society (CSTWS)</i>. Virtual (Canada).</li> 
+<li>How is COVID-19 impacting graduate students in Canada? (2020). <i>Evidence for Democracy</i>. Virtual (Canada). [<a href="https://youtu.be/KRHFT7cpvJM">Link</a>]</li> 
 </ol>
