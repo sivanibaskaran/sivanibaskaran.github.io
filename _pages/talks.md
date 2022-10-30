@@ -34,3 +34,13 @@ permalink: /talks/
 <li>Impact of COVID-19 restrictions on graduate students. (2021).  <i>The Canadian Section of The Wildlife Society (CSTWS)</i>. Virtual (Canada).</li> 
 <li>How is COVID-19 impacting graduate students in Canada? (2020). <i>Evidence for Democracy</i>. Virtual (Canada). [<a href="https://youtu.be/KRHFT7cpvJM">Link</a>]</li> 
 </ol>
+
+
+## Podcasts     
+
+<ol reversed>
+<li>Nobel for quantum entanglement, mystery of the missing bear toes, the dinosaurs' last
+tsunami, the genetics of the Anglo-Saxon takeover of England an activits work to "Support our Science". (October 8, 2022) <i>Quirks & Quarks</i>.  [<a href="https://www.cbc.ca/radio/quirks/oct-8-nobel-for-quantum-entanglement-mystery-of-the-missing-bear-toes-the-dinosaurs-last-tsunami-and-more-1.6609061">Link</a>]</li> .
+<li>Graduate students in a precarious position during the pandemic. (August 24, 2020). <i>Genome Alberta</i>. [<a href="https://genomealberta.ca/genomics/genomics_blog_08242001.aspx">Link</a>]</li>
+<li>A Scientist's Guide to the Federal Election (w/ Evidence for Democracy, TSPN, and SPE). (October 10 2019). <i>Science Sucks</i>. [<a href="https://www.cbc.ca/radio/quirks/oct-8-nobel-for-quantum-entanglement-mystery-of-the-missing-bear-toes-the-dinosaurs-last-tsunami-and-more-1.6609061">Link</a>]</li> 
+</ol>
