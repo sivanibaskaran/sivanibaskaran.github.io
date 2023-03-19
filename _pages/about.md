@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an environmental chemist by training and dabble a little a little bit in science policy. Currently I am a post-doctoral researcher at the Norwegian Geotechnical Institute in Oslo where I focus on identifying persistent and mobile (PM) substances in the environment as part of the [WP5 of the ZeroPM project,](https://zeropm.eu/wp5-substance-grouping/), on substance grouping.
+I am an environmental chemist by training and dabble a little a little bit in science policy. Currently I am a post-doctoral researcher at the [Norwegian Geotechnical Institute](https://www.ngi.no/eng) in Oslo where I focus on identifying persistent and mobile (PM) substances in the environment as part of the [WP5 of the ZeroPM project](https://zeropm.eu/wp5-substance-grouping/), on substance grouping.
 
 My interest in environmental fate and modelling began during my undergraduate years at Trent University. I went on to obtain a  Master's of Science degree in Chemistry at the University of Toronto under the supervision of Prof. Frank Wania in 2015, before starting my journey as a PhD student at the University of Toronto.
 
