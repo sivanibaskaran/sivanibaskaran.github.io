@@ -18,7 +18,7 @@ permalink: /writing/
 
 </ol>
 
-## Policy Memos, White Papers, & Reports<a name="policy-reports"></a>
+## [Policy Memos, White Papers, & Reports](#policy-reports)
 
 <ol reversed>
 <li><b>Baskaran, S</b>, Maddiboina, D, Kum., JJY, Reuben, R, Kharas, K, Bukuroshi, E, Lim, I, Narayanam, BKB. (2021). Improving the accessibility of federal graduate research awards in Canada. <i>J. Sci. Policy Gov.</i> 18(4). doi: <a href="https://doi.org/10.38126/JSPG180405">10.38126/JSPG180405</a>.</li>
