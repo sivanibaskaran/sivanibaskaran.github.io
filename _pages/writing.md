@@ -4,7 +4,7 @@ title: Writing
 permalink: /writing/
 ---
 
-## Scientific Publications
+## Scientific Publications<a name="sciencepubs"></a>
 <ol reversed>
 <li>Li L, Zhang, Z, Men, Y, <b>Baskaran, S</b>, Sangion, A, Wang, S, Arnot, J, Wania, F. (2022). Retrieval, selection, and evaluation of chemical property data for assessments of chemical emissions, fate, hazard, exposure, and risks. <i>ACS Environ. Au</i>. doi: <a href="https://doi.org/10.1021/acsenvironau.2c00010">10.1021/acsenvironau.2c00010</a></li>
 <li><b>Baskaran, S</b>, Lei, YD, Wania, F. (2021). Response to comment on "A database of experimentally derived and estimated octanol-air partition ratios (<i>K</i><sub>OA</sub>)" [J. Phys. Chem. Ref. Data 51, 026101 (2022)]. <i>J. Phys. Chem. Ref. Data.</i> 51, 026102. doi: <a href="https://doi.org/10.1063/5.0090020">10.1063/5.0090020</a>.</li>
@@ -18,7 +18,7 @@ permalink: /writing/
 
 </ol>
 
-## Policy Memos, White Papers, & Reports
+## Policy Memos, White Papers, & Reports<a name="policy-reports"></a>
 
 <ol reversed>
 <li><b>Baskaran, S</b>, Maddiboina, D, Kum., JJY, Reuben, R, Kharas, K, Bukuroshi, E, Lim, I, Narayanam, BKB. (2021). Improving the accessibility of federal graduate research awards in Canada. <i>J. Sci. Policy Gov.</i> 18(4). doi: <a href="https://doi.org/10.38126/JSPG180405">10.38126/JSPG180405</a>.</li>
@@ -28,7 +28,7 @@ permalink: /writing/
 
 
 
-## Op-eds
+## Op-eds<a name="opeds"></a>
 
 <ol reversed>
 <li><b>Baskaran, S</b>. (2021). Student-run groups: connecting early career researchers to science and policy. In Allen, K, Simon-Kumar, N, and Mills, G. (Eds.) Building Back Wiser: Knowledge, Policy and Public in Dialogue Viewpoints. <i>International Network for Government Advice</i>, p. 50. [<a href="https://www.ingsa.org/ingsa2021/viewpoints/">Link</a>]</li>
