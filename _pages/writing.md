@@ -18,7 +18,7 @@ permalink: /writing/
 
 </ol>
 
-## [Policy Memos, White Papers, & Reports](#policy-reports)
+## Policy Memos, White Papers, & Reports
 
 <ol reversed>
 <li><b>Baskaran, S</b>, Maddiboina, D, Kum., JJY, Reuben, R, Kharas, K, Bukuroshi, E, Lim, I, Narayanam, BKB. (2021). Improving the accessibility of federal graduate research awards in Canada. <i>J. Sci. Policy Gov.</i> 18(4). doi: <a href="https://doi.org/10.38126/JSPG180405">10.38126/JSPG180405</a>.</li>
@@ -31,8 +31,9 @@ permalink: /writing/
 ## Op-eds<a name="opeds"></a>
 
 <ol reversed>
+<li>Baskaran, S., Dhanyasri, M, Kum, JJY, Laframboise, S, Sathiyaseelan, P, Rilling, M, Qaiser, F, Trinh, A-K, McGuirk, S. <i>Canadian Science Policy Centre</i>. Intersections Between Next Generation Researchers and Science Policy in Canada – Past, Present and Future [<a href="https://sciencepolicy.ca/posts/intersections-between-next-generation-researchers-and-science-policy-in-canada-past-present-and-future/">Link</a>]
 <li><b>Baskaran, S</b>. (2021). Student-run groups: connecting early career researchers to science and policy. In Allen, K, Simon-Kumar, N, and Mills, G. (Eds.) Building Back Wiser: Knowledge, Policy and Public in Dialogue Viewpoints. <i>International Network for Government Advice</i>, p. 50. [<a href="https://www.ingsa.org/ingsa2021/viewpoints/">Link</a>]</li>
-<li><b>Baskaran, S</b>, Dakessian, M, Maddiboina, D, Sathiyaseelan, P, Trinh, A-K. (2021). The need for sustainable federal support for equity, diversity, and inclusion in research. <i>Canadian Science Policy Centre</i>. [<a href="https://sciencepolicy.ca/posts/intersections-between-next-generation-researchers-and-science-policy-in-canada-past-present-and-future/">Link</a>]</li>
+<li><b>Baskaran, S</b>, Dakessian, M, Maddiboina, D, Sathiyaseelan, P, Trinh, A-K. (2021). The need for sustainable federal support for equity, diversity, and inclusion in research. <i>Canadian Science Policy Centre</i>. [<a href="https://sciencepolicy.ca/posts/the-need-for-sustainable-federal-support-for-equity-diversity-and-inclusion-in-research/">Link</a>]</li>
 <li>Qaiser, F, Garnett, S, McGuirk, S, Girling, K, Gruosso, T, Telfer, F, Sung, M, Heer, T, <b>Baskaran, S</b>. (2020). What’s next for research trainees in Canada after the pandemic? <i>University Affairs</i>. [<a href="https://sciencepolicy.ca/posts/the-need-for-sustainable-federal-support-for-equity-diversity-and-inclusion-in-research/">Link</a>]</li>
 <li>Qaiser, F, Garnett, S, Telfer, F, Gruosso, T, Fong, B, <b>Baskaran, S</b>, Gibbs, K. (2019). #VoteScience: Lessons learned and building science advocacy beyond the election cycle. <i>Canadian Science Policy Centre</i>. [<a href="https://sciencepolicy.ca/posts/votescience-lessons-learned-and-building-science-advocacy-beyond-the-election-cycle/">Link</a>]</li>
 <li><b>Baskaran, S</b>. (2019). Students engaging in science policy. <i>International Association for Great Lakes Research Lakes Letter - Summer 2019</i>, p. 6. [<a href="https://iaglr.org/ll/2019-2-Summer_LL2.pdf">Link</a>]</li>
