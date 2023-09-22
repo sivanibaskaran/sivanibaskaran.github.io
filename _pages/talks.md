@@ -6,7 +6,7 @@ permalink: /talks/
 
 ## Scientific Conferences
 
-* presented by
+<center><i>\* presented b</i></center>
 
 <ol reversed>
 
