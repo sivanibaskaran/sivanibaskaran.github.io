@@ -4,7 +4,7 @@ title: Talks
 permalink: /talks/
 ---
 
-{## Scientific Conferences
+## Scientific Conferences
 
 <center><i>* presented by</i></center>
 
@@ -32,8 +32,7 @@ permalink: /talks/
 <li>*<b>Baskaran, S</b>, Armitage, JM, Wania, F. (2018). Model-based explorations of the variability in lake trout BAFs caused by physiology and trophic relationships. <i>Society of Environmental Toxicology and Chemistry, Europe 28th Annual Meeting</i>, Rome, Italy (International). (Platform)</li>
 <li>*<b>Baskaran, S</b>, Armitage, JM, Wania, F. (2018). Model-based explorations of the variability in lake trout BAFs caused by physiology and trophic relationships. <i>Society of Environmental Toxicology and Chemistry, 7th Young Environmental Scientists Meeting</i>, Madison, WI, USA (International). (Platform)</li>
 <li>*<b>Baskaran, S</b>, Armitage, JM, Wania, F. (2017). Model-based explorations of the variability in lake trout BAFs caused by physiology and trophic relationships. <i>Society of Environmental Toxicology and Chemistry, North America 38th Annual Meeting</i>, Minneapolis, MN, USA (International).</li> 
-</ol>}
-
+</ol>
 
 
 ## Webinars & Panels
