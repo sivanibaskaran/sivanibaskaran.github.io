@@ -5,11 +5,7 @@ permalink: /talks/
 ---
 
 ## Scientific Conferences
-
-<center><i>* presented by</i></center>
-
 <ol reversed>
-
 <li>*<b>Baskaran, S</b>, Wolf, R, Arp, HPH. (2023) Exploring organic carbon–water partition ratio (KOC) data for mobility hazard and exposure assessments using big data approaches. <i>American Chemical Society Fall 2023</i>. San Fransisco, CA, USA. (International). (Platform)</li>
 <li>*Arp, HPH, <b>Baskaran, S</b>, Chirsir, P, Palm, EH, Schymanski, EL, Wang, Z, Wolf R, Hale S. (2023) Grouping persistent and mobile substances to expedite assessments and avoid regrettable substitution.18th <i>International Conference on Chemistry and the Environment</i>. Venice, Italy (International). (Platform)</li>
 <li>Wolf, R, *<b>Baskaran, S</b>, Schymanski, E, Wang,Z, Arp, HPH, Hale, S. (2023) The "cleanventory": identifying the chemical structures of persistent and mobile substances on global trade markets. <i>18th International Conference on Chemistry and the Environment</i>. Venice, Italy (International). (Poster)</li>
@@ -31,9 +27,8 @@ permalink: /talks/
 <li>*<b>Baskaran, S</b>, Armitage, JM, Wania, F. (2018). Model-based explorations of the variability in lake trout BAFs caused by physiology and trophic relationships. <i>International Association for Great Lakes Research, 61st Annual Conference on Great Lakes Research</i>, Toronto, ON, Canada (International). (Platform)</li>
 <li>*<b>Baskaran, S</b>, Armitage, JM, Wania, F. (2018). Model-based explorations of the variability in lake trout BAFs caused by physiology and trophic relationships. <i>Society of Environmental Toxicology and Chemistry, Europe 28th Annual Meeting</i>, Rome, Italy (International). (Platform)</li>
 <li>*<b>Baskaran, S</b>, Armitage, JM, Wania, F. (2018). Model-based explorations of the variability in lake trout BAFs caused by physiology and trophic relationships. <i>Society of Environmental Toxicology and Chemistry, 7th Young Environmental Scientists Meeting</i>, Madison, WI, USA (International). (Platform)</li>
-<li>*<b>Baskaran, S</b>, Armitage, JM, Wania, F. (2017). Model-based explorations of the variability in lake trout BAFs caused by physiology and trophic relationships. <i>Society of Environmental Toxicology and Chemistry, North America 38th Annual Meeting</i>, Minneapolis, MN, USA (International).</li> 
+<li>*<b>Baskaran, S</b>, Armitage, JM, Wania, F. (2017). Model-based explorations of the variability in lake trout BAFs caused by physiology and trophic relationships. <i>Society of Environmental Toxicology and Chemistry, North America 38th Annual Meeting</i>, Minneapolis, MN, USA (International).</li>
 </ol>
-
 
 ## Webinars & Panels
 
@@ -43,12 +38,11 @@ permalink: /talks/
 <li>Addressing the impacts of COVID-19 on graduate students in Canada: Challenges and solutions. (2021).  <i>Canadian Association for Graduate Studies (CAGS) 58th Annual Conference: Learning from the Present: Transforming Graduate Education Post-Pandemic</i>. Virtual (Canada)</li> 
 <li>Impact of COVID-19 restrictions on graduate students. (2021).  <i>The Canadian Section of The Wildlife Society (CSTWS)</i>. Virtual (Canada).</li> 
 <li>How is COVID-19 impacting graduate students in Canada? (2020). <i>Evidence for Democracy</i>. Virtual (Canada). [<a href="https://youtu.be/KRHFT7cpvJM">Link</a>]</li>
-
 </ol>
 
-## Podcasts     
+## Podcasts
 
 <ol reversed>
 <li>Nobel for quantum entanglement, mystery of the missing bear toes, the dinosaurs' last tsunami, the genetics of the Anglo-Saxon takeover of England and activists work to "Support our Science". (October 8, 2022) <i>Quirks & Quarks</i>.  [<a href="https://www.cbc.ca/radio/quirks/oct-8-nobel-for-quantum-entanglement-mystery-of-the-missing-bear-toes-the-dinosaurs-last-tsunami-and-more-1.6609061">Link</a>]</li>
 <li>Graduate students in a precarious position during the pandemic. (August 24, 2020). <i>Genome Alberta</i>. [<a href="https://genomealberta.ca/genomics/genomics_blog_08242001.aspx">Link</a>]</li>
-<li>A Scientist's Guide to the Federal Election (w/ Evidence for Democracy, TSPN, and SPE). (October 10 2019). <i>Science Sucks</i>. [<a href="https://www.cbc.ca/radio/quirks/oct-8-nobel-for-quantum-entanglement-mystery-of-the-missing-bear-toes-the-dinosaurs-last-tsunami-and-more-1.6609061">Link</a>]</li> </ol>
+<li>A Scientist's Guide to the Federal Election (w/ Evidence for Democracy, TSPN, and SPE). (October 10 2019). <i>Science Sucks</i>. [<a href="https://www.cbc.ca/radio/quirks/oct-8-nobel-for-quantum-entanglement-mystery-of-the-missing-bear-toes-the-dinosaurs-last-tsunami-and-more-1.6609061">Link</a>]</li>
