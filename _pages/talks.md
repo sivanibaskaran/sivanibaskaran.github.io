@@ -31,7 +31,9 @@ permalink: /talks/
 <li>*<b>Baskaran, S</b>, Armitage, JM, Wania, F. (2018). Model-based explorations of the variability in lake trout BAFs caused by physiology and trophic relationships. <i>International Association for Great Lakes Research, 61st Annual Conference on Great Lakes Research</i>, Toronto, ON, Canada (International). (Platform)</li>
 <li>*<b>Baskaran, S</b>, Armitage, JM, Wania, F. (2018). Model-based explorations of the variability in lake trout BAFs caused by physiology and trophic relationships. <i>Society of Environmental Toxicology and Chemistry, Europe 28th Annual Meeting</i>, Rome, Italy (International). (Platform)</li>
 <li>*<b>Baskaran, S</b>, Armitage, JM, Wania, F. (2018). Model-based explorations of the variability in lake trout BAFs caused by physiology and trophic relationships. <i>Society of Environmental Toxicology and Chemistry, 7th Young Environmental Scientists Meeting</i>, Madison, WI, USA (International). (Platform)</li>
-<li>*<b>Baskaran, S</b>, Armitage, JM, Wania, F. (2017). Model-based explorations of the variability in lake trout BAFs caused by physiology and trophic relationships. <i>Society of Environmental Toxicology and Chemistry, North America 38th Annual Meeting</i>, Minneapolis, MN, USA (International).</li> 
+<li>*<b>Baskaran, S</b>, Armitage, JM, Wania, F. (2017). Model-based explorations of the variability in lake trout BAFs caused by physiology and trophic relationships. <i>Society of Environmental Toxicology and Chemistry, North America 38th Annual Meeting</i>, Minneapolis, MN, USA (International).</li>
+
+</ol>
 
 
 ## Webinars & Panels
@@ -43,6 +45,7 @@ permalink: /talks/
 <li>Impact of COVID-19 restrictions on graduate students. (2021).  <i>The Canadian Section of The Wildlife Society (CSTWS)</i>. Virtual (Canada).</li> 
 <li>How is COVID-19 impacting graduate students in Canada? (2020). <i>Evidence for Democracy</i>. Virtual (Canada). [<a href="https://youtu.be/KRHFT7cpvJM">Link</a>]</li>
 
+</ol>
 
 ## Podcasts     
 
