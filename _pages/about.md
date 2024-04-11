@@ -12,4 +12,4 @@ In August 2023, I completed my PhD at the University of Toronto working with Pro
 
 In 2018, I co-founded the [Toronto Science Policy Network](https://tspn.ca) (TSPN), a student group at the University of Toronto, and later served as the Vice-President and President. I have now taken on an advisory role to the executive committee and leadership team. I have also helped with the #VoteScience campaign during the 2019 and 2021 federal elections, by designing infographics and postcards. I am currently helping with the [#SupportOurScience](http://supportourscience.ca/) and with developing a Canada-wide next generation science policy network, SciPolCanada.
 
-Feel free to reach out via social media or email if you want to get in touch or would like a copy of my CV.
+Feel free to reach out via [email](mailto:sivanibaskaran1@gmail.com") if you want to get in touch or would like a copy of my CV.

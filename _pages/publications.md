@@ -4,10 +4,17 @@ title: Publications
 permalink: /publications/
 ---
 
+## Pre-prints
+<ol reversed>
+<li>Chirsir, P, Palm EH, <b>Baskaran, S</b>, Schymanski, EL, Wang, Z, Wolf, R, Hale, SE, Arp, HPH. (2024). Grouping strategies for assessing and managing persistent and mobile substances. <i>ChemRxiv</i> doi: <a href="https://doi.org/10.26434/chemrxiv-2024-tn5t5-v2">10.26434/chemrxiv-2024-tn5t5-v2</a></li>
+</ol>
+
+
 ## Scientific Publications
 <ol reversed>
-<li><b>Baskaran, S</b>, Wania, F. (2023). Applications of the octanol–air partitioning ratio: a critical review. <i>Environ. Sci.: Atmos.</i>. doi: <a href="https://doi.org/10.1039/D3EA00046J">10.1039/D3EA00046J</a></li>
-<li><b>Baskaran, S</b>, Lei, YD, Wania, F. (2023). Expanding the applicability range of the generator column technique to measure the octanol–air partition ratio of volatile compounds. <i>J. Chem. Eng. Data</i>. doi: <a href="https://doi.org/10.1021/acs.jced.2c00422">10.1021/acs.jced.2c00422</a></li>
+<li>Arp, HP, Wolf, R, Hale, SE, Baskaran, S, <i>et al.</i> (2023). Letter to the editor regarding Collard et al. (2023): “Persistence and mobility (defined as organic-carbon partitioning) do not correlate to the detection of substances found in surface and groundwater: Criticism of the regulatory concept of persistent and mobile substances”. <i>Sci. Total Environ</i>. 906, 165927. doi: <a href="https://doi.org/10.1016/j.scitotenv.2023.165927">10.1016/j.scitotenv.2023.165927</a></li>
+<li><b>Baskaran, S</b>, Wania, F. (2023). Applications of the octanol–air partitioning ratio: a critical review. <i>Environ. Sci.: Atmos.</i>. 3(7), 1045-1065. doi: <a href="https://doi.org/10.1039/D3EA00046J">10.1039/D3EA00046J</a></li>
+<li><b>Baskaran, S</b>, Lei, YD, Wania, F. (2023). Expanding the applicability range of the generator column technique to measure the octanol–air partition ratio of volatile compounds. <i>J. Chem. Eng. Data</i>. 68(1), 118–126. doi: <a href="https://doi.org/10.1021/acs.jced.2c00422">10.1021/acs.jced.2c00422</a></li>
 <li><b>Baskaran, S</b>, Podagatlapalli, A, Sangion A, Wania, F. (2022). Predicting the temperature dependence of the octanol-air partition ratio: A new model for estimating Δ<i>U</i>°<sub>OA</sub>.<i>J. Solution Chem.</i>. doi: <a href="https://doi.org/10.1007/s10953-022-01214-7">10.1007/s10953-022-01214-7</a></li>
 <li>Li L, Zhang, Z, Men, Y, <b>Baskaran, S</b>, Sangion, A, Wang, S, Arnot, J, Wania, F. (2022). Retrieval, selection, and evaluation of chemical property data for assessments of chemical emissions, fate, hazard, exposure, and risks. <i>ACS Environ. Au</i>. doi: <a href="https://doi.org/10.1021/acsenvironau.2c00010">10.1021/acsenvironau.2c00010</a></li>
 <li><b>Baskaran, S</b>, Lei, YD, Wania, F. (2021). Response to comment on "A database of experimentally derived and estimated octanol-air partition ratios (<i>K</i><sub>OA</sub>)" [J. Phys. Chem. Ref. Data 51, 026101 (2022)]. <i>J. Phys. Chem. Ref. Data.</i> 51, 026102. doi: <a href="https://doi.org/10.1063/5.0090020">10.1063/5.0090020</a>.</li>
@@ -26,7 +33,7 @@ permalink: /publications/
 <li>Toronto Science Policy Network. (2020). The Early Impacts of COVID-19 on Graduate Students across Canada. <a href="https://tspn.ca/covid19-report">https://tspn.ca/covid19-report</a>. (<b>Project Supervisor</b>, see report for detailed contributions)</li>
 </ol>
 
-## Op-eds
+## Opinion Pieces
 
 <ol reversed>
 <li><b>Baskaran, S</b>, Dhanyasri, M, Kum, JJY, Laframboise, S, Sathiyaseelan, P, Rilling, M, Qaiser, F, Trinh, A-K, McGuirk, S. <i>Canadian Science Policy Centre</i>. Intersections Between Next Generation Researchers and Science Policy in Canada – Past, Present and Future [<a href="https://sciencepolicy.ca/posts/intersections-between-next-generation-researchers-and-science-policy-in-canada-past-present-and-future/">Link</a>]
