@@ -3,9 +3,11 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
-<small>Last updated September 19, 2024</small>
+<div style="text-align: center;"><small>Last updated September 19, 2024</small>
+</div>
 ## Scientific Conferences
-<p><small>* presenting author</small></p>
+<div style="text-align: center;"><small>*presenting author</small>
+</div><p>
 <ol reversed>
 <li>*<b>Baskaran, S</b>, Wolf, R, Arp, HPH. (2023) Exploring organic carbon–water partition ratio (KOC) data for mobility hazard and exposure assessments using big data approaches. <i>American Chemical Society Fall 2023</i>. San Fransisco, CA, USA. (International). (Platform)</li>
 <li>*Arp, HPH, <b>Baskaran, S</b>, Chirsir, P, Palm, EH, Schymanski, EL, Wang, Z, Wolf R, Hale S. (2023) Grouping persistent and mobile substances to expedite assessments and avoid regrettable substitution.18th <i>International Conference on Chemistry and the Environment</i>. Venice, Italy (International). (Platform)</li>
