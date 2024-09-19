@@ -3,7 +3,8 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
-
+<div style="text-align: center;"><small>Last updated September 19, 2024</small>
+</div>
 ## Scientific Conferences
 <p><small>* presenting author</small></p>
 <ol reversed>
