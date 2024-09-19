@@ -3,10 +3,14 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
-
+<div style="text-align: center;"><small>Last updated September 19, 2024</small>
+</div>
 ## Scientific Conferences
 <p><small>* presenting author</small></p>
-<ol reversed>
+<ol reversed><li>*<b>Baskaran, S</b>, Chirsir, P, Joudan, S, Wolf, R, Schymanski, E, & Bolton, E. (2024). Reporting Chemical Data in the Environmental Sciences. <i>Society of Environmental Toxicology and Chemistry Europe 34th Meeting</i>, Seville, Spain. (International). (Poster)</li>
+<li>*<b>Baskaran, S</b>, Wolf, R, & Arp, H. P. (2024, May 7). Exploring Organic-Carbon–Water Partition Ratio (KOC) Data for Mobility Hazard and Exposure Assessments Using Big Data Approaches. <i>Society of Environmental Toxicology and Chemistry Europe 34th Meeting</i>, Seville, Spain. (International). (Platform)</li>
+<li>*Wolf, R, <b>Baskaran, S</b>, Schymanski, E, Wang, Z, Arp, H. P., & Hale, S. (2024, May 9). So FAIR, So Clean: How the cleanventory Approach Provides Reliable Data for Chemical Structures Regulated in Global Trade Markets. <i>Society of Environmental Toxicology and Chemistry Europe 34th Meeting</i>, Seville, Spain. (International). (Platform)</li>
+<li>*Arp, H. P. H, Chirsir, P, Palm, E, <b>Baskaran, S</b>, Schymanski, E, Wang, Z, Wolf, R, & Hale, S. E. (2024, May 23). Grouping persistent and mobile substances to expedite assessments and avoid regrettable substitution. <i>Society of Environmental Toxicology and Chemistry Europe 34th Meeting</i>, Seville, Spain. (International). (Platform)</li>
 <li>*<b>Baskaran, S</b>, Wolf, R, Arp, HPH. (2023) Exploring organic carbon–water partition ratio (KOC) data for mobility hazard and exposure assessments using big data approaches. <i>American Chemical Society Fall 2023</i>. San Fransisco, CA, USA. (International). (Platform)</li>
 <li>*Arp, HPH, <b>Baskaran, S</b>, Chirsir, P, Palm, EH, Schymanski, EL, Wang, Z, Wolf R, Hale S. (2023) Grouping persistent and mobile substances to expedite assessments and avoid regrettable substitution.18th <i>International Conference on Chemistry and the Environment</i>. Venice, Italy (International). (Platform)</li>
 <li>Wolf, R, *<b>Baskaran, S</b>, Schymanski, E, Wang,Z, Arp, HPH, Hale, S. (2023) The "cleanventory": identifying the chemical structures of persistent and mobile substances on global trade markets. <i>18th International Conference on Chemistry and the Environment</i>. Venice, Italy (International). (Poster)</li>
