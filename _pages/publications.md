@@ -3,14 +3,12 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-
-Last updated September 19 2024
-
+<div style="text-align: center;"><small>Last updated September 19, 2024</small>
+</div>
 ## Scientific Publications
 <ol reversed>
 <li>D'eon, J.C., <b>Baskaran, S</b>, Faust, J.A., Staikova, M., Young, C.J. (2024). Welcome to 310 Environmental Working Group! A group project that places students in the role of consultants helping businesses choose the most climate friendly fluorinated gas. <i>J. Chem. Educ.</i> doi: <a>href="https://doi.org/10.1021/acs.jchemed.4c00479">10.1021/acs.jchemed.4c00479</a></li>
 <li>Chirsir, P, Palm EH, <b>Baskaran, S</b>, Schymanski, EL, Wang, Z, Wolf, R, Hale, SE, Arp, HPH. (2024). Grouping strategies for assessing and managing persistent and mobile substances. <i>Environ Sci Eur</i> 36, 102. doi: <a href="https://doi.org/10.1186/s12302-024-00919-4">10.1186/s12302-024-00919-4</a></li>
-</ol>
 <li>Arp, HP, Wolf, R, Hale, SE, Baskaran, S, <i>et al.</i> (2023). Letter to the editor regarding Collard et al. (2023): “Persistence and mobility (defined as organic-carbon partitioning) do not correlate to the detection of substances found in surface and groundwater: Criticism of the regulatory concept of persistent and mobile substances”. <i>Sci. Total Environ</i>. 906, 165927. doi: <a href="https://doi.org/10.1016/j.scitotenv.2023.165927">10.1016/j.scitotenv.2023.165927</a></li>
 <li><b>Baskaran, S</b>, Wania, F. (2023). Applications of the octanol–air partitioning ratio: a critical review. <i>Environ. Sci.: Atmos.</i>. 3(7), 1045-1065. doi: <a href="https://doi.org/10.1039/D3EA00046J">10.1039/D3EA00046J</a></li>
 <li><b>Baskaran, S</b>, Lei, YD, Wania, F. (2023). Expanding the applicability range of the generator column technique to measure the octanol–air partition ratio of volatile compounds. <i>J. Chem. Eng. Data</i>. 68(1), 118–126. doi: <a href="https://doi.org/10.1021/acs.jced.2c00422">10.1021/acs.jced.2c00422</a></li>
