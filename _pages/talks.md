@@ -3,8 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
-<div style="text-align: center;"><small>Last updated September 19, 2024</small>
-</div>
+<small>Last updated September 19, 2024</small>
 ## Scientific Conferences
 <p><small>* presenting author</small></p>
 <ol reversed><li>*<b>Baskaran, S</b>, Chirsir, P, Joudan, S, Wolf, R, Schymanski, E, & Bolton, E. (2024). Reporting Chemical Data in the Environmental Sciences. <i>Society of Environmental Toxicology and Chemistry Europe 34th Meeting</i>, Seville, Spain. (International). (Poster)</li>
