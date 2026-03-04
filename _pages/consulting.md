@@ -43,5 +43,5 @@ I am particularly experienced in writing that must bridge scientific and non-tec
 
 ---
 
-I am available for project-based collaboration, technical review, and analytical support. If you have a project in mind or would like to discuss whether my background is a good fit, I welcome an initial conversation.
+I am available for project-based collaboration, technical review, and analytical support. If you have a project in mind or would like to discuss whether my background is a good fit, I would be happy to speak with you.
 {: .notice--success}

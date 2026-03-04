@@ -8,9 +8,7 @@ toc_label: "Services"
 toc_icon: "book"
 ---
 
-I offer one-on-one tutoring in science and chemistry for secondary school and university students.
-
-My teaching emphasizes conceptual clarity, quantitative reasoning, and structured problem-solving.
+I offer one-on-one tutoring in science and chemistry for secondary school and university students. My teaching emphasizes conceptual clarity, quantitative reasoning, and structured problem-solving.
 
 
 ## High School
