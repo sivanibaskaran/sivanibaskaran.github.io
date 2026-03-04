@@ -1,0 +1,69 @@
+---
+---
+
+@charset "utf-8";
+
+// Colour overrides
+$primary-color: #00897B;
+$link-color: #00897B;
+// $focus-color: #00897B;
+$active-color: mix(#000, #00897B, 25%);
+
+// Font size overrides
+$type-size-1: 2.441em;
+$type-size-2: 1.953em;
+$type-size-3: 1.563em;
+$type-size-4: 1.25em;
+$type-size-5: 1em;
+$type-size-6: 0.75em;
+$type-size-7: 0.6875em;
+$type-size-8: 0.625em;
+
+@import "minimal-mistakes/skins/contrast";
+@import "minimal-mistakes";
+
+.page__content {
+  font-size: 0.85em;
+  h1 { font-size: 1.8em; }
+  h2 { font-size: 1.5em; }
+  h3 { font-size: 1.25em; }
+  h4 { font-size: 1.1em; }
+}
+
+// Home page sizing and heading hierarchy
+.entries-list,
+.archive,
+.initial-content {
+  font-size: 0.85em;
+  h1 { font-size: 1.8em; }
+  h2 { font-size: 1.5em; }
+  h3 { font-size: 1.25em; }
+  h4 { font-size: 1.1em; }
+}
+
+// Keep author sidebar at original size
+.author__content,
+.author__bio,
+.author__tagline,
+.author__urls {
+  font-size: 1rem;
+}
+
+// TOC font size and title colour
+.toc__menu {
+  font-size: 0.9em;
+}
+
+.toc .nav__title {
+  background-color: #e0f2f1;
+  color: #000;
+  font-size: 0.9em;
+}
+
+// Notice styling
+.notice--success {
+  font-size: 0.9em !important;
+  background-color: #e0f2f1 !important;
+  border-left-color: #00897B !important;
+  color: #000 !important;
+}
